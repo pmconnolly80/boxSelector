@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 15px;
+  font-family: Arial;
+}
+
+body {
+  display: block;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+
+
+.box1, .box2, .box3 {
+  width: 90%;
+  height: 25%;
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+}
+
+.box1 {
+  background-color: red;
+}
+
+.box2 {
+  background-color: blue;
+}
+
+.box3 {
+  background-color: green;
+}
+
+.hidden {
+  display: none;
+}
+
+form {
+  text-align: center;
+}
